@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>4</html_total>
+	<html_done>4</html_done>
+	<img>141</img>
+	<js>8</js>
+	<css>9</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<xml/>
+	<json/>
+	<txt/>
+	<fonts>14</fonts>
+	<scraping_reload>1</scraping_reload>
+	<is_pretty_url>false</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<email>karlmhlanga0@gmail.com</email>
+	<theme_name>83163</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/vastexposure.com_karlmhlanga0_gmail.com_op5caxpaqtb/</server_url_front_page>
+	<no_www_url>vastexposure.com</no_www_url>
+	<hosted_domain/>
+	<original_archive_url>https://web.archive.org/web/20181214014614/http://vastexposure.com/website.html</original_archive_url>
+	<final_archive_url>https://web.archive.org/web/20181214014614/http://vastexposure.com/website.html</final_archive_url>
+	<front_page_code_date>20181214014614</front_page_code_date>
+	<total_urls_from_api/>
+	<max_reached_live>false</max_reached_live>
+	<scrape_other_captures>false</scrape_other_captures>
+	<total_size>11060</total_size>
+</pagescount>

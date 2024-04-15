@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>3</html_total>
+	<html_done>3</html_done>
+	<img>9</img>
+	<js>7</js>
+	<css>4</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<wav/>
+	<xml/>
+	<json/>
+	<txt/>
+	<fonts>21</fonts>
+	<scraping_reload>5</scraping_reload>
+	<is_pretty_url>false</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<theme_name>62679</theme_name>
+	<server_url_front_page>https://www.kmhlanga.gq</server_url_front_page>
+	<no_www_url>kmhlanga.gq</no_www_url>
+	<hosted_domain/>
+	
+	
+	
+	<total_urls_from_api>3 pages</total_urls_from_api>
+	<search_url_added>search_api_not_used</search_url_added>
+	<total_size>3492</total_size>
+</pagescount>
